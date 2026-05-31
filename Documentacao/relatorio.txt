@@ -1,0 +1,18 @@
+Simulação de uma cozinha utilizando algoritmos de ordenação.
+
+Objetivo
+Implementar Bubble Sort.
+Implementar Selection Sort.
+Implementar Recursive Insertion Sort.
+Analisar a complexidade dos algoritmos.
+
+Como será desenvolvido
+Fase 1: organização da despensa.
+Fase 2: criação dos pratos.
+Fase 3: atendimento das comandas.
+
+Estrutura prevista
+BubbleSort
+SelectionSort
+RecursiveInsertionSort
+Documentação
