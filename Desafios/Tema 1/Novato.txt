@@ -1,0 +1,16 @@
+🎮 Nível Novato: A Organização da Despensa
+Nesta primeira fase, o jogador chega à cozinha e encontra uma bancada em completo caos. Os ingredientes foram entregues em horários aleatórios e precisam ser ordenados alfabeticamente para facilitar o trabalho do chef.
+
+🚩 Objetivo:
+Ordenar um vetor fixo contendo os nomes dos ingredientes em ordem alfabética.
+⚙️ Funcionalidades e Requisitos:
+Estrutura de Dados: Utilização de um vetor bidimensional de char(array de strings) fixo, sem necessidade de entrada do usuário via scanf.
+Algoritmo: Implementando o algoritmo Bubble Sort .
+Métricas: O algoritmo deve contabilizar e exibir o total de comparações realizadas e o total de trocas efetuadas.
+📥 Entrada e 📤 Saída de Dados:
+Entrada: Vetor fixo no código (Ex: {"Tomate", "Cebola", "Alho", "Cenoura"}).
+Saída: O sistema deverá imprimir:
+A lista de ingredientes ANTES da ordenação.
+A lista de ingredientes DEPOIS da ordenação.
+O total de comparações realizadas.
+O total de trocas fechadas.
