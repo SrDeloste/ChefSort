@@ -1,0 +1,9 @@
+🛡️ Nível Aventureiro: A Criação dos Pratos
+Agora que a cozinha está organizada, é hora de montar os pratos. Para um serviço mais ágil, o chef quer preparar primeiro os pratos mais simples (com menos) e deixar os ingredientes mais complexos para depois.
+
+🆕 Diferenças em relação ao Nível Novato:
+Estrutura de Dados: Em vez de um vetor de strings, você utilizará um vetor de structs. Cada um structrepresentará um prato contendo: Nome do prato(string) e Quantidade de ingredientes(int). Você deve criar um vetor fixo com 5 pratos.
+Critério de Ordenação: A ordenação não será mais alfabética, mas sim numérica, baseada na quantidade de ingredientes (do menor para o maior).
+Algoritmo: Implementar o algoritmo Selection Sort .
+📤 Saída de Dados:
+Imprimir uma lista de pratos (nome e quantidade de ingredientes) ANTES e DEPOIS da ordenação pelo Selection Sort.
