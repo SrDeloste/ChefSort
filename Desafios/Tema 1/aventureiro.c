@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//criação da "ficha" do prato
 struct Prato
 {
     char nome[50];
