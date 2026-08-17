@@ -1,0 +1,9 @@
+🏆 Nível Mestre: O Atendimento das Comandas
+O restaurante está todo vapor! As comandas chegam fora de ordem e, para que o fluxo de preparo seja correto, é preciso organizá-las pela prioridade de atendimento (número da comanda).
+
+🆕 Diferenças em relação ao Nível Aventureiro:
+Estrutura de Dados: Nova structrepresentando a comanda, contendo: Nome do prato(string) e Número da comanda(int).
+Critério de Ordenação: Ordenar de forma crescente baseando-se no número da comanda .
+Algoritmo: Substituir os laços tradicionais pela recursividade. Você deve implementar o Ordenação por Inserção Recursiva (Insertion Sort Recursivo).
+📤 Saída de Dados:
+Imprima a lista de comandos ANTES e DEPOIS da ordenação recursiva, provando que a fila de pedidos está pronta para o chef executar!
